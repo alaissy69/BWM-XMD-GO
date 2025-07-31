@@ -6,12 +6,12 @@
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
-  "success_url": "¶",
+  "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "PREFIX": {
       "description": "Choose your prefix for your bot",
-      "value": ".",
+      "value": "¶",
       "required": true
     },
     "AUTO_REJECT_CALL": {
